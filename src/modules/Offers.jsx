@@ -6,7 +6,7 @@ function Offers() {
         <Offer
           img="https://a0.muscache.com/im/pictures/10aa2c8c-f6e5-4e22-a942-935581afddf6.jpg?im_w=720"
           title="Dalaman ,טורקיה"
-          dis="במרחק 758 קילו'"
+          dis="במרחק 1 קילו'"
           date="19-24 באוק'"
           price="575"
           rating="4.82"
