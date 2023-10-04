@@ -3,7 +3,7 @@ import CategoriCard from "../components/CategoriCard"
 function Categories() {
   return (
     <>
-      <div className=" w-[100%] border-t bg-white shadow-lg">
+      <div className="w-[100%] border-t bg-white shadow-lg">
         <div className=" w-[90%] flex mt-[2.5rem] place-content-between mx-[5%]">
           <div className="w-[10%]">
             <Filterbtn /> {/* fillter */}
